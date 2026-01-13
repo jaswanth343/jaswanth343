@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/jaswanth-reddy-lanka/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
   </a>
-  <a href="mailto:jaswanth.reddy060@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Me-red" />
+  <a href="mailto:jaswanth.reddy060@gmail.com?subject=GitHub%20Profile%20Contact">
+    <img src="https://img.shields.io/badge/Email-jaswanth.reddy060%40gmail.com-red" />
   </a>
 </p>
 
